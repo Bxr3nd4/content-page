@@ -5,6 +5,7 @@ import Terminal from "./components/terminal/Terminal";
 import Git from "./components/gitFolder/Git";
 import Github from "./components/gitFolder/githubFolder/Github";
 import Internet from "./components/internet/Internet"
+import Python from "./components/python/Python"
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/git" Component={Git} />
           <Route path="/github" Component={Github} />
           <Route path="/internet" Component={Internet} />
+          <Route path="/python" Component={Python} />
         </Routes>
       </div>
     </Router>
