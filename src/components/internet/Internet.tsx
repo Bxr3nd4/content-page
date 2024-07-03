@@ -4,7 +4,7 @@ function Internet() {
       <h1>Internet</h1>
       <p>
         Apostamos a que utilizas Internet todos los días. Pero, ¿sabes lo que
-        pasa cuando escribes una dirección como{" "}
+        pasa cuando escribes una dirección como
         <a href="https://unicornioindustries.co/">Unicornio Industries </a>
         en tu navegador y presionas enter? La primera cosa que necesitas
         entender, es que una página web consiste de un puñado de archivos
@@ -27,7 +27,7 @@ function Internet() {
         kilómetros de cables alrededor del mundo!
       </p>
       <a href="https://www.submarinecablemap.com/submarine-cable/brazilian-festoon">
-        Imagen de cables submarinos{" "}
+        Imagen de cables submarinos
       </a>
     </section>
   );
