@@ -21,6 +21,9 @@ function Header() {
           <li>
             <Link to="/internet">Internet</Link>
           </li>
+          <li>
+            <Link to="/python">Python</Link>
+          </li>
         </ul>
       </nav>
     </header>
