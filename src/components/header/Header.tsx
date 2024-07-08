@@ -24,6 +24,9 @@ function Header() {
           <li>
             <Link to="/python">Python</Link>
           </li>
+          <li>
+            <Link to="/actividades">Actividades</Link>
+          </li>
         </ul>
       </nav>
     </header>

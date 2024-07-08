@@ -6,6 +6,7 @@ import Git from "./components/gitFolder/Git";
 import Github from "./components/gitFolder/githubFolder/Github";
 import Internet from "./components/internet/Internet"
 import Python from "./components/python/Python"
+import Actividades from "./components/actividades/Actividades";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/github" Component={Github} />
           <Route path="/internet" Component={Internet} />
           <Route path="/python" Component={Python} />
+          <Route path="/actividades" Component={Actividades} />
         </Routes>
       </div>
     </Router>
